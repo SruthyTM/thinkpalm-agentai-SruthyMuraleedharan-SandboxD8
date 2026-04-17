@@ -1,4 +1,4 @@
-# GitHub PR Review & Documentation Assistant (Pro Edition)
+# Code Review & Documentation Assistant (Pro Edition)
 
 **Name:** Sruthy Muraleedharan  
 **Track:** Backend Dev  
